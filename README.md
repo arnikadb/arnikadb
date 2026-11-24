@@ -2,7 +2,7 @@
  
 Mechatronics Engineering / Master of Robotics & AI student at QUT, and R&D Assistant at Holovision. I want to build assistive technology that works for everyone.
  
-**Portfolio:** [arnikadb.github.io](https://arnikadb.github.io), a 3D workshop you can explore
+**Portfolio:** [arnikadb.github.io]([https://arnikadb.github.io](https://arnikadb.github.io/arnikadb/)), a 3D workshop you can explore
  
 #### Currently
 - Working on robotic vision, AI agents and a 3D geospatial VR web app at Holovision
